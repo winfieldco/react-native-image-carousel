@@ -43,7 +43,7 @@
     }
   },
   "dependencies": {
-    "react-swipeable-views-native": "^0.12.2"
+
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
